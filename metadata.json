@@ -1,0 +1,6 @@
+{
+  "name": "OmniChat AI - ChatGPT & NVIDIA NIM Platform",
+  "description": "Next-generation conversational AI platform built like ChatGPT with multi-provider support for Gemini 2.5 and NVIDIA NIM models (Llama 3.3, DeepSeek R1, Nemotron).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
